@@ -21,7 +21,7 @@ export default function MyApp() {
 
 function Form({ children }) {
   return (
-    <Panel title="Bienvenido">
+    <Panel title="Hola Mundo">
       <Button>Registrarse</Button>
       <Button>Iniciar sesión</Button>
     </Panel>
